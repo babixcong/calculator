@@ -1,0 +1,28 @@
+{
+    "name": "babixcong/calculator",
+    "description": "Máy tính",
+    "authors": [
+        {
+            "name": "Cong Nguyen",
+            "email": "congnx1998215@gmail.com"
+        }
+    ],
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=8.*",
+        "another-vendor/package": "1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "CongNx\\Calculator\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "CongNx\\Calculator\\Providers\\CalculatorProvider\\"
+            ]
+        }
+    }
+}
