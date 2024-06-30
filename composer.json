@@ -25,7 +25,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "CongNx\\Calculator\\Providers\\CalculatorProvider\\"
+                "CongNx\\Calculator\\Providers\\CalculatorProvider"
             ]
         }
     }
