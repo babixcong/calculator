@@ -2,13 +2,16 @@
     "name": "babixcong/calculator",
     "version": "v1.0",
     "description": "Máy tính",
+    "type": "library",
     "authors": [
         {
             "name": "Cong Nguyen",
             "email": "congnx1998215@gmail.com"
         }
     ],
-    "type": "library",
+    "support": {
+        "email": "congnx1998215@gmail.com"
+    },
     "minimum-stability": "dev",
     "require": {
         "php": ">=8.0",

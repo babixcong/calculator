@@ -1,0 +1,9 @@
+Composer
+-  KEYS:
+ + require: để cho biết package sẽ phụ thuộc vào các package nào khác
+ + name: tên của package = tên vendor + tên package (vi dụ cong/package, gnoc/package)
+ + version: version của package
+
+
+
+composer.json & composer.lock
